@@ -25,16 +25,16 @@ Editable and printable versions are available in the [`course_documents`](course
 | 1 | Density measurements and uncertainties | Aug 24 and Aug 31 | Aug 31 | Completed |
 | 2 | Air track I: Kinematics | Sep 7 and Sep 14 | Sep 14 | Completed |
 | 3 | Projectile motion | Sep 21 and Sep 28 | Sep 28 | Completed |
-| 4 | Air track II: Newton's second law | Oct 5 and Oct 19 | Oct 19 | **Released** |
-| 5 | Air track III: Conservation of energy | Oct 26 and Nov 2 | Nov 2 | **Released** |
-| 6 | Collisions in two dimensions | Nov 9 and Nov 16 | Nov 16 | Coming later |
+| 4 | Air track II: Newton's second law | Oct 5 and Oct 19 | Oct 19 | Completed |
+| 5 | Air track III: Conservation of energy | Oct 26 and Nov 2 | Nov 2 | Completed |
+| 6 | Collisions in two dimensions | Nov 9 and Nov 16 | Nov 16 | **Released** |
 | 7 | Moment of inertia | Nov 23 and Nov 30 | Nov 30 | Coming later |
 
 There is no laboratory meeting on October 12 because of fall recess. Each new lab will appear in the `labs` directory when it is released.
 
 ### Current laboratory
 
-Before beginning Lab 5, the repository manager must use **Sync fork → Update branch**. Then open [`Lab05_Air_Track_Conservation_of_Energy.ipynb`](labs/Lab05_Air_Track_Conservation_of_Energy/Lab05_Air_Track_Conservation_of_Energy.ipynb) from the **team fork**. The notebook initially runs with clearly labeled example measurements. Replace all spring-calibration readings, four gravity configurations, at least two spring configurations, and instrument uncertainties with the team's own measurements. Preserve every raw trial, run each configuration at the bench, and complete the checkpoints and written report. The notebook is due **November 2 at 8:45 p.m.**
+Before beginning Lab 6, the repository manager must use **Sync fork → Update branch**. Then open [`Lab06_Collisions_in_Two_Dimensions.ipynb`](labs/Lab06_Collisions_in_Two_Dimensions/Lab06_Collisions_in_Two_Dimensions.ipynb) from the **team fork**. Run the complete illustrative example first, then replace every mass, spark frequency, multi-dot path length, signed angle, interval count, and uncertainty with the team's measurements. Preserve the labeled recording-sheet images, use synchronized post-collision intervals for the inelastic trial, and complete both quantitative checkpoints, one worked uncertainty calculation, and the written record. The notebook is due **November 16 at 8:45 p.m.**
 
 ## Before the first lab
 
